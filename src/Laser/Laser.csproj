@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Version>0.0.1</Version>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/ChrisMissal/Laser</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ChrisMissal/Laser</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Authors>Chris Missal</Authors>
+    <Product />
+    <Company />
+  </PropertyGroup>
+
+  <ItemGroup>
+      <None Include="..\..\LICENSE.txt">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+      </None>
+  </ItemGroup>
+</Project>
